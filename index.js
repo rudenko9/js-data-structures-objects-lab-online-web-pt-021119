@@ -1,2 +1,2 @@
-{ driver: 'driver'}
+const driver = { driver: 'driver'}
 
