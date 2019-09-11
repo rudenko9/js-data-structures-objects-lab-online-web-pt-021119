@@ -1,5 +1,5 @@
 const driver = { driver: 'driver'}
 
  updateDriverWithKeyAndValue(driver, key, value){
-   name: 'Sam'; 
+  const driver = {name: 'Sam'} ;  
  }
